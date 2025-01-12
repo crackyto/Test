@@ -2,3 +2,4 @@
 - Contribuer chaque jour
 - Apprendre Git pas à pas
 - Automatiser mes commits
+Mise à jour du 12 janvier 2025 ✅
