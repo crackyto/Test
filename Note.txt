@@ -1,0 +1,4 @@
+🎯 Objectifs GitHub :
+- Contribuer chaque jour
+- Apprendre Git pas à pas
+- Automatiser mes commits
